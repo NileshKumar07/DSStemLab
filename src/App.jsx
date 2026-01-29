@@ -40,7 +40,7 @@ function App() {
   }, []);
 
   return (
-    <SidebarContactWrapper heroId="hero">
+    <SidebarContactWrapper heroId="home" mode="always">
       <main className="min-h-screen w-full bg-silver text-navy selection:bg-accent-blue/30 overflow-x-hidden">
         <Navbar />
         <Hero />
