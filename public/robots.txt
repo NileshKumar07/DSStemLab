@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dsstemlab.com/sitemap.xml
+Sitemap: https://www.dstemlab.co.in/sitemap.xml
+Sitemap: https://www.dstemlab.co.in/image-sitemap.xml

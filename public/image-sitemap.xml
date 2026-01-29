@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage with all images -->
+  <url>
+    <loc>https://www.dstemlab.co.in/</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Logo -->
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/dslab_logo.png</image:loc>
+      <image:title>DS STEM LAB Logo</image:title>
+      <image:caption>DS STEM LAB - Robotics and Research Lab</image:caption>
+    </image:image>
+    
+    <!-- Gallery Images - Featured -->
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/kreativity_show.jpg</image:loc>
+      <image:title>Kreativity Show</image:title>
+      <image:caption>Students showcasing their innovative projects at Kreativity Show</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/1.jpg</image:loc>
+      <image:title>Robotics Workshop</image:title>
+      <image:caption>Students learning robotics in a workshop setting</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/Mr.%20Nilesh%20Kumar.png</image:loc>
+      <image:title>Leadership - Mr. Nilesh Kumar</image:title>
+      <image:caption>DS STEM LAB Leadership</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/2.jpg</image:loc>
+      <image:title>Student Projects</image:title>
+      <image:caption>Innovative projects built by students</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/kreativity_league.jpg</image:loc>
+      <image:title>Kreativity League Events</image:title>
+      <image:caption>Robotics league and competition events</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/3.jpg</image:loc>
+      <image:title>Innovation Lab</image:title>
+      <image:caption>State-of-the-art innovation lab facilities</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/nilesh%20newspaper.jpg</image:loc>
+      <image:title>Press Coverage</image:title>
+      <image:caption>DS STEM LAB featured in the press</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0002.jpg</image:loc>
+      <image:title>STEM Workshop</image:title>
+      <image:caption>Hands-on STEM workshop activities</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0003.jpg</image:loc>
+      <image:title>Hands-on Learning</image:title>
+      <image:caption>Students engaged in practical learning</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0001.jpg</image:loc>
+      <image:title>Student Innovation</image:title>
+      <image:caption>Showcasing student creativity and innovation</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0002.jpg</image:loc>
+      <image:title>Lab Activity</image:title>
+      <image:caption>Active learning session in the lab</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0005.jpg</image:loc>
+      <image:title>Team Collaboration</image:title>
+      <image:caption>Students working together on projects</image:caption>
+    </image:image>
+
+    <!-- Gallery Images - Additional -->
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0004.jpg</image:loc>
+      <image:title>Workshop Session</image:title>
+      <image:caption>Interactive workshop session</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0005.jpg</image:loc>
+      <image:title>Student Activity</image:title>
+      <image:caption>Students participating in STEM activities</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0006.jpg</image:loc>
+      <image:title>Innovation Space</image:title>
+      <image:caption>Exploring the innovation workspace</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0007.jpg</image:loc>
+      <image:title>Team Work</image:title>
+      <image:caption>Collaborative problem solving</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0008.jpg</image:loc>
+      <image:title>Learning Session</image:title>
+      <image:caption>Focused learning environment</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0009.jpg</image:loc>
+      <image:title>Competition Prep</image:title>
+      <image:caption>Preparing for robotics competitions</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0010.jpg</image:loc>
+      <image:title>Lab Session</image:title>
+      <image:caption>Practical lab work</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0011.jpg</image:loc>
+      <image:title>Creative Thinking</image:title>
+      <image:caption>Encouraging creative solutions</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0012.jpg</image:loc>
+      <image:title>Workshop Activity</image:title>
+      <image:caption>Engaging workshop tasks</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0013.jpg</image:loc>
+      <image:title>Team Activity</image:title>
+      <image:caption>Group based learning activities</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0014.jpg</image:loc>
+      <image:title>Skill Building</image:title>
+      <image:caption>Building technical skills</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260107-WA0015.jpg</image:loc>
+      <image:title>Project Work</image:title>
+      <image:caption>Working on final projects</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0003.jpg</image:loc>
+      <image:title>Innovation Lab</image:title>
+      <image:caption>Advanced tools in the innovation lab</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0004.jpg</image:loc>
+      <image:title>Training Session</image:title>
+      <image:caption>Specialized training session</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0006.jpg</image:loc>
+      <image:title>Team Building</image:title>
+      <image:caption>Fostering team spirit</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0007.jpg</image:loc>
+      <image:title>Learning Activity</image:title>
+      <image:caption>Student-centered learning</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0008.jpg</image:loc>
+      <image:title>Student Projects Showcase</image:title>
+      <image:caption>Exhibiting student work</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0009.jpg</image:loc>
+      <image:title>Lab Exploration</image:title>
+      <image:caption>Discovering new technologies</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0010.jpg</image:loc>
+      <image:title>Workshop Practice</image:title>
+      <image:caption>Practical application of concepts</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0011.jpg</image:loc>
+      <image:title>Group Activity</image:title>
+      <image:caption>Collaborative group tasks</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0012.jpg</image:loc>
+      <image:title>Hands-on Training</image:title>
+      <image:caption>Experiential learning modules</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0013.jpg</image:loc>
+      <image:title>Project Development</image:title>
+      <image:caption>Development phase of student projects</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0014.jpg</image:loc>
+      <image:title>Innovation Work</image:title>
+      <image:caption>Innovative approaches to problem solving</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0015.jpg</image:loc>
+      <image:title>Team Event</image:title>
+      <image:caption>Participation in team events</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0016.jpg</image:loc>
+      <image:title>Workshop Training</image:title>
+      <image:caption>Training workshops for students</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0017.jpg</image:loc>
+      <image:title>Student Project</image:title>
+      <image:caption>Showcase of individual projects</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0018.jpg</image:loc>
+      <image:title>Lab Innovation</image:title>
+      <image:caption>Creative innovations in the lab</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.dstemlab.co.in/assets/gallery/IMG-20260125-WA0019.jpg</image:loc>
+      <image:title>Learning Workshop</image:title>
+      <image:caption>Educational workshop session</image:caption>
+    </image:image>
+
+  </url>
+</urlset>

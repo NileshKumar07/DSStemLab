@@ -66,6 +66,7 @@ const Mission = () => {
                             <img
                                 src="/assets/gallery/IMG-20260125-WA0002.jpg"
                                 alt="Innovation"
+                                loading="lazy"
                                 className="absolute inset-0 w-full h-full object-cover opacity-70 group-hover:opacity-90 transition-opacity duration-700"
                             />
                         </div>

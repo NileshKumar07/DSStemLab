@@ -11,7 +11,10 @@ import CourseLevels from './components/CourseLevels';
 import LabDetails from './components/LabDetails';
 import Mission from './components/Mission';
 import FAQ from './components/FAQ';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
+import SupportBot from './components/SupportBot';
+import SidebarContactWrapper from './components/SidebarContactWrapper';
 
 import { Analytics } from '@vercel/analytics/react';
 
@@ -37,20 +40,24 @@ function App() {
   }, []);
 
   return (
-    <main className="min-h-screen w-full bg-silver text-navy selection:bg-accent-blue/30 overflow-x-hidden">
-      <Navbar />
-      <Hero />
-      <Introduction />
-      <Gallery />
-      <TechGrid />
-      <Services />
-      <CourseLevels />
-      <LabDetails />
-      <Mission />
-      <FAQ />
-      <Footer />
-      <Analytics />
-    </main>
+    <SidebarContactWrapper heroId="hero">
+      <main className="min-h-screen w-full bg-silver text-navy selection:bg-accent-blue/30 overflow-x-hidden">
+        <Navbar />
+        <Hero />
+        <Introduction />
+        <Gallery />
+        <TechGrid />
+        <Services />
+        <CourseLevels />
+        <LabDetails />
+        <Mission />
+        <FAQ />
+        <Contact />
+        <Footer />
+        <Analytics />
+        <SupportBot />
+      </main>
+    </SidebarContactWrapper>
   );
 }
 
