@@ -7,6 +7,8 @@ const GROQ_API_URL = 'https://api.groq.com/openai/v1/chat/completions';
 const GROQ_API_KEY = import.meta.env.VITE_GROQ_API_KEY;
 const MODEL = 'llama-3.1-8b-instant';
 
+
+
 // ─── System Prompt: rich structured HTML output ───────────────────────────────
 const SYSTEM_PROMPT = `You are DS Bot, the friendly AI assistant for DS STEM LAB — India's premier Robotics & STEM education lab.
 
